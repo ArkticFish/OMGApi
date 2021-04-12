@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace OMGApi.Controllers
 {
     [ApiController]
-    [Route("api/OMDbMovies")]
+    [Route("OMDbMovies")]
     public class MoviesController : ControllerBase
     {
 
